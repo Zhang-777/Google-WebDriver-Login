@@ -1,7 +1,6 @@
 
 
 var casper = require('casper').create();
-var x = require('casper').selectXPath;
 casper.options.viewportSize = { width: 950, height: 950 };
 
 var url = 'https://accounts.google.com/signin/v2/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin';
