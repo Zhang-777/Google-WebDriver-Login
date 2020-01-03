@@ -1,6 +1,6 @@
 # Google WebDriver Login - (Docker & Casperjs)
-### This google login in capserjs with docker in order to get cookie and test other google services
-### Special Thanks to : https://github.com/vitr/docker-casperjs
+ This google login in capserjs with docker in order to get cookie and test other google services
+ Special Thanks to : https://github.com/vitr/docker-casperjs
 
 # Instructions
 ### Step 1) clone this repo
