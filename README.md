@@ -7,4 +7,4 @@
 #### Step 2) docker run -d --name casperjs-daemon -v {Your Project Directory}:/home/casperjs-tests --restart always vitr/casperjs
 #### Step 3) cd {Your Project Directory}
 #### Step 4) make your script
-#### Step 5) docker exec casperjs-daemon casperjs {your script}
+#### Step 5) docker exec casperjs-daemon casperjs index.js
